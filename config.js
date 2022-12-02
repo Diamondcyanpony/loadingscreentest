@@ -135,7 +135,7 @@ config.messages_list = [
 	"Welcome to Diamond sandbox!",
 	"Please respect other players",
 	"This is a W.I.P test server",
-	"Happy holidays!",
+	"Attempting to crash the server will result in ban!",
 ]
 
 // Random message order?
